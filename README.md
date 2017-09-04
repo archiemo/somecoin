@@ -1,0 +1,2 @@
+# somecoin
+hello_World
